@@ -39,7 +39,7 @@
                         <p>
                             Kota Renah, Kec. Sungai Penuh, Kota Sungai Penuh, Jambi 37152<br>
                         </p>
-                        <strong>Email:</strong> bpshq@bps.go.id<br><br>
+                        <strong>Email:</strong> bps1572@bps.go.id<br><br>
                         <strong>Sosial Media:</strong>
                         <div class="social-links mt-3">
                             <a href="https://www.instagram.com/bps.sungaipenuh/" class="instagram" target="_blank"><i class="bi bi-instagram"></i></a>
