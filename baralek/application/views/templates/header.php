@@ -3,7 +3,7 @@
         <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
             <a class="navbar-brand d-flex align-items-center" href="<?= base_url() ?>beranda">
-                <img class="logo" src="<?= base_url() ?>assets/images/logo.png" width="55" height="55" alt="">
+                <img class="logo" src="<?= base_url() ?>assets/img/logo.png" width="55" height="55" alt="">
                 <span class="ml-2 keterangan-logo d-flex flex-column">
                     <span><strong>BARALEK</strong></span>
                     <span class="small">Badan Pusat Statistik Kota Sungai Penuh</span>
