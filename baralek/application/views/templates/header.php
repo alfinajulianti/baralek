@@ -6,7 +6,7 @@
                 <img class="logo" src="<?= base_url() ?>assets/img/logo.png" width="55" height="55" alt="">
                 <span class="ml-2 keterangan-logo d-flex flex-column">
                     <span><strong>BARALEK</strong></span>
-                    <span class="small">Badan Pusat Statistik Kota Sungai Penuh</span>
+                    <span class="small">BPS Kota Sungai Penuh</span>
                 </span>
             </a>
 
