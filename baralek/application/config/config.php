@@ -24,6 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 $config['base_url'] = 'https://bpssungaipenuh.com/baralek/';
+//$config['base_url'] = 'http://localhost/baralek/baralek/';
 
 /*
 |--------------------------------------------------------------------------
