@@ -625,7 +625,6 @@ section {
 # Values
 --------------------------------------------------------------*/
 .values .box {
-  background-color: #fff;
   padding: 30px;
   border-radius: 30px;
   box-shadow: 0px 0 5px rgba(17, 33, 100, 0.45);
