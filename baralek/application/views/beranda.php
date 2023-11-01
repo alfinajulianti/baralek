@@ -71,7 +71,7 @@
                         <div class="box d-flex flex-column justify-content-between">
                             <img src="<?= base_url() ?>assets/img/SDI/indah.svg" class="img-fluid logo-riset" alt="">
                             <h3>INDAH <br> <small>(Indonesia Data Hub)</small></h3>
-                            <h6></h6>
+                            <h6>Platform yang digunakan untuk melaporkan metadata kegiatan statistik yang telah dilakukan serta melihat informasi Standar Data Statistik.</h6>
                         </div>
                     </a>
                 </div>
