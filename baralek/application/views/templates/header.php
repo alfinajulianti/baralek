@@ -26,7 +26,7 @@
                         <a class="nav-link scrollto" href="http://s.bps.go.id/depatistatistik2-beta" target="_blank">Data Strategis</a>
                     </li>
                     <li>
-                        <a class="getstarted scrollto" href="http://s.bps.go.id/descan-tanjung" target="_blank">Desa Cantik</a>
+                        <a class="getstarted scrollto" href="https://pemdestanjung.shinyapps.io/Dashboard" target="_blank">Desa Cantik</a>
                     </li>
 
                 </ul>
