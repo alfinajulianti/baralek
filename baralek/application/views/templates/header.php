@@ -23,7 +23,7 @@
                         <a class="nav-link scrollto" href="<?= base_url('sdi') ?>">SDI</a>
                     </li>
                     <li class="<?= $this->uri->segment(1) == "data-strategis" ? "active" : "" ?>">
-                        <a class="nav-link scrollto" href="http://s.bps.go.id/depatistatistik2-beta" target="_blank">Data Strategis</a>
+                        <a class="nav-link scrollto" href="http://s.bps.go.id/depatistatistik" target="_blank">Data Strategis</a>
                     </li>
                     <li>
                         <a class="getstarted scrollto" href="https://pemdestanjung.shinyapps.io/Dashboard" target="_blank">Desa Cantik</a>
