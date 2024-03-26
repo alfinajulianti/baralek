@@ -14,7 +14,7 @@
                 </p>
                 <div data-aos="fade-up" data-aos-delay="600">
                     <div class="text-center text-lg-start">
-                        <a href="#fourthSec" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
+                        <a href="#materi" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
                             <span>Selanjutnya</span>
                             <i class="bi bi-arrow-right"></i>
                         </a>

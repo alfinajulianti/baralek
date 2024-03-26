@@ -2656,6 +2656,7 @@ section {
   height: 100rem;
   margin-bottom: 0;
 }
+
 #materi .txt {
   width: 65%;
   margin: auto auto 2rem auto;
@@ -2670,6 +2671,13 @@ section {
   width: 65%;
   margin: auto auto auto auto;
   padding: 2rem 2rem 1rem 2rem;
+}
+
+@media (max-width: 865px) {
+  #materi {
+    background-size: 100% 160rem;
+    height: 160rem;
+  }
 }
 
 #fourthSec .nav-fill .nav-link.active {
