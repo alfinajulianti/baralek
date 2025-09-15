@@ -25,6 +25,9 @@
                     <li class="<?= $this->uri->segment(1) == "data-strategis" ? "active" : "" ?>">
                         <a class="nav-link scrollto" href="http://s.bps.go.id/depatistatistik" target="_blank">Data Strategis</a>
                     </li>
+                    <li class="">
+                        <a class="nav-link scrollto" href="https://ppid.bps.go.id/?mfd=1572" target="_blank">PPID</a>
+                    </li>
                     <li>
                         <a class="getstarted scrollto" href="https://pemdestanjung.shinyapps.io/Dashboard" target="_blank">Desa Cantik</a>
                     </li>
